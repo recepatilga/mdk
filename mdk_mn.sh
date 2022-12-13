@@ -3,7 +3,7 @@ cd /root
 sudo apt-get update
 sudo apt install unzip
 sudo apt install screen
-wget --no-check-certificate https://github.com/recepatilga/mna/raw/main/mdk_mn.zip
+wget --no-check-certificate https://github.com/recepatilga/mdk/raw/main/mdk_mn.zip
 unzip mdk_mn.zip
 mv AutoRclone2 AutoRclone
 cd /root 
